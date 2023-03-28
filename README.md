@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hey there 👋
+I am a master's student specializing in Medical Imaging and Applications. I am currently working on my master's thesis project on learning cortex morphology with self-supervised contrastive learning for improving sulci segmentations.
 
+I am thrilled about combining neuroscience, psychology and DL in my work. We have a lot to learn and explore at the intersection of these fields ✨
 <!--
 **Vivikar/Vivikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
