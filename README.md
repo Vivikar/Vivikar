@@ -1,8 +1,11 @@
 ### Hey there 👋
-I am a master's student specializing in Medical Imaging and Applications. I am currently working on my master's thesis project studying cortex morphology with self-supervised contrastive learning for improving sulci segmentations.
+I am a PhD student at the University of Lausanne | Center for Biomedical Imaging.
 
-I am thrilled about combining neuroscience, psychology and DL in my work. We have a lot to learn and explore at the intersection of these fields ✨
+- 🧠 I'm currently working on a project aiming to tackle domain shifts that arise when using DL models in pediatric neuroimaging, in tasks like super-resolution reconstruction, brain tissue segmentation and quality control.
+
 <!--
+- 🌱 I’m currently exploring synthetic data and multi-task self-supervised learning approaches. 
+I am thrilled about combining neuroscience, psychology and DL in my work. We have a lot to learn and explore at the intersection of these fields ✨
 **Vivikar/Vivikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
